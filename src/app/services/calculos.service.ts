@@ -4,6 +4,7 @@ import { HttpClient } from '@angular/common/http';
 import { Http, ResponseContentType } from '@angular/http';
 import Swal from 'sweetalert2';
 // tslint:disable-next-line:max-line-length
+// probando github
 import {
   Grupo, Equipo, Juego, Alumno, Nivel, TablaAlumnoJuegoDePuntos, TablaHistorialPuntosAlumno, AlumnoJuegoDePuntos, TablaEquipoJuegoDePuntos, HistorialPuntosAlumno,
   HistorialPuntosEquipo, EquipoJuegoDePuntos, TablaHistorialPuntosEquipo, AlumnoJuegoDeColeccion, AlumnoJuegoDeCompeticionLiga, Album,
